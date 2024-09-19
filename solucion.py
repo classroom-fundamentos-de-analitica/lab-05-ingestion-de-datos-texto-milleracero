@@ -19,4 +19,3 @@ folders = ["train", "test"]
 
 for folder in folders:
     generate_csv_files(folder)
-
